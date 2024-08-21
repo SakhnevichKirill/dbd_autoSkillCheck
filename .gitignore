@@ -1,0 +1,9 @@
+dataset/
+*.ckpt
+*.yaml
+.idea/
+*.pyc
+lightning_logs/
+.ipynb_*
+.venv/
+saved_images/
